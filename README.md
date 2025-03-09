@@ -1,26 +1,26 @@
 # Frontend Mentor - Blog preview card solution
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
-## Table of contents
+## Índice
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [O Desafio](#O-Desafio)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [Construído com](#Construído-Com)
+  - [O que Aprendi](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
 
-### The challenge
+### O Desafio
 
-Users should be able to:
+Os usuários devem ser capazes de:
 
-De ver um Cartão de pré-visualização de blog. 
+Ver e explorar um Cartão de pré-visualização de blog. 
 Neste desafio somente com HTML e CSS é um projeto perfeito para iniciantes que querem se familiarizar com os fundamentos de HTML e CSS, como a estrutura HTML e o modelo de caixa(Flexbox).
 
 ### Screenshot
@@ -34,7 +34,7 @@ Neste desafio somente com HTML e CSS é um projeto perfeito para iniciantes que 
 
 ## My process
 
-### Built with
+### Construído com
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -42,11 +42,11 @@ Neste desafio somente com HTML e CSS é um projeto perfeito para iniciantes que 
 - CSS Grid - Autofill
 - Media Querye
 
-### What I learned
+### O que Aprendi
 
 - Estamos aprendendo CSS, nesse projeto comecei utilizando apenas display flex para organizar o visual da página, porém depois tentei utilizar display GRID, já que foi um dos últimos assuntos estudados de CSS do curso de frontend que estou fazendo. Tivemos um pouco de dificuldade, mas nada que com mais estudo ou prática não podemos melhorar. 
 
-### Continued development
+### Desenvolvimento Contínuo
 
 Desejo continuar melhorar na questão de espaçamentos do CSS, melhorar e estudar mais sobre display flex e display Grid.
 Continuar e melhorar na questão de responsividade, deixando os projetos com maior compatibilidade em diversos instrumentos de acesso.
