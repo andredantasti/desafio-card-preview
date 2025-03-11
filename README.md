@@ -30,7 +30,7 @@ Neste desafio somente com HTML e CSS é um projeto perfeito para iniciantes que 
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://andredantasti.github.io/desafio-card-preview)
 
 ## My process
 
